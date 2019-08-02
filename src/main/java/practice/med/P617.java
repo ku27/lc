@@ -1,4 +1,4 @@
-package com.ku.practice.med;
+package practice.med;
 
 class Solution {
 

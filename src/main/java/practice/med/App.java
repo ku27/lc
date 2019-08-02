@@ -1,4 +1,4 @@
-package com.ku.practice;
+package practice.med;
 
 /**
  * Hello world!
